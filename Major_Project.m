@@ -1,5 +1,3 @@
-% Ahan Bhargava - 218543776
-
 nanx = isnan(Data.PM25);
 nanx1 = isnan(Data.O3);
 nanx2 = isnan(Data.Benzene);
